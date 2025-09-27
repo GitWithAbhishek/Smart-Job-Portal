@@ -1,0 +1,23 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODdjMTcxM2Y0NmE3MjViNGEyZTA3NiIsInJvbGUiOiJqb2Jfc2Vla2VyIiwiaWF0IjoxNzUzNzI4MTg1LCJleHAiOjE3NTQzMzI5ODV9.jj0oNeeB5DXwZ5ElbkmTfJk0pMqXYuLPjs7iBEb0hHw
+
+
+
+
+Recruiter
+http://localhost:3000/recruiter
+
+Job Seeker
+http://localhost:3000/jobseeker
+
+recruiter@example.com
+abhishek@example.com
+123456
+
+PS C:\Users\Abhishek Pandey> cd "C:\Users\Abhishek Pandey\smart-job-portal\server"
+PS C:\Users\Abhishek Pandey\smart-job-portal\server> npm run dev
+
+
+PS C:\Users\Abhishek Pandey\smart-job-portal\client> npm start
+
+
+ctrl + shift + I
